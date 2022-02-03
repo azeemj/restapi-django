@@ -1,6 +1,7 @@
 # restapi-django
 
 Installation:
+
 1.pip3 install virtualenv
 
 2.virtualenv djangorstenv
@@ -16,10 +17,13 @@ Installation:
 7.pip3 install requests
 
 #give proper permission to read and write to sqlite else 0777like below
+
 8. sudo chmod 777 db.sqlite3 
 
 
 URLS:
+please refer ,Answers  Kira_1.pdf
+
 http://localhost:8000/admin/inventoryapi/inventory/add/
 
 http://127.0.0.1:8000/
