@@ -20,6 +20,8 @@ Installation:
 
 8. sudo chmod 777 db.sqlite3 
 
+9.  ./manage.py runserver   # run the server
+
 
 URLS:
 please refer ,Answers  Kira_1.pdf
