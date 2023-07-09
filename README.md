@@ -22,6 +22,9 @@ availability (bool)
 
 supplier (FK)
 
+
+
+
 Supplier
 
 id
